@@ -1,3 +1,3 @@
 # React-Project
 
-This repo includes React Project.
+This repo includes basic React.
